@@ -1,8 +1,0 @@
-X=MsgBox("Error while opening Files, do you want to fix it? ",3+64,"Files") 
-X=MsgBox("Unable fixing the files, Want to scan your computer?",3+48,"Open scan") 
-X=MsgBox("No dangerous files was detected.",3+32,"???") 
-X=MsgBox("Wait...",3+16,"XD") 
-X=MsgBox("Do you download some horny files?",3+16,"h") 
-X=MsgBox("You so horny",3+48,"h") 
-X=MsgBox("OK Never Gonna Give You Up",0+16,"h")
-X=MsgBox("WYKCTF{:D:D:D:D:P}",0+16,"The ultimate answer is here")
